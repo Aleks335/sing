@@ -1,0 +1,11 @@
+// custom variables
+$primary: #281B36;
+
+body {
+	font-family: "Poppins", Arial;
+	font-weight: 400;
+	line-height: 1.8;
+}
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
